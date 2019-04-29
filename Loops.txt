@@ -1,0 +1,18 @@
+
+var ello = function(){
+    do {
+        console.log("Hi there :)");
+        String(ello);
+        ello = false;
+    } while (ello);
+};
+
+for(var i ; i < 21 ; i++){
+    console.log(i);
+}
+
+var hi = true;
+while(hi){
+    console.log(hi);
+    hi = false;
+}

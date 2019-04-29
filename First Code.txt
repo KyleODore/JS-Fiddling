@@ -1,0 +1,8 @@
+var firstName = "Alexander";
+var secondName = "Kyle";
+
+if (firstName.length - secondName.length === 5) {
+  console.log("IT WORKED!");
+} else {
+  console.log("Fail");
+}

@@ -1,0 +1,5 @@
+var number1 = prompt("What is your first number")
+var number2 = prompt("What is your second number")
+var answer = number1 + number2
+
+alert("Your number is" + " " + answer);
